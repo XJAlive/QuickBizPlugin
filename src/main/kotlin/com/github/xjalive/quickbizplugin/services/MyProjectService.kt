@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.xjalive.quickbizplugin.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.xjalive.quickbizplugin.MyBundle
 
 class MyProjectService(project: Project) {
 

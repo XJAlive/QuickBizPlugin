@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.xjalive.quickbizplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.xjalive.quickbizplugin.MyBundle
 
 class MyApplicationService {
 
